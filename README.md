@@ -1,6 +1,6 @@
-1. Create a decentralized NFT Marketplace
-    1. `listItem`: List NFTs on the marketplace
-    2. `buyItem`: Buy the NFTs
-    3. `cancelItem`: Cancel a listing
-    4. `updateListing`: Update Price
-    5. `withdrawProceeds`: Withdraw payment for my bought NFTs
+1. A decentralized NFT Marketplace
+    1. Lists NFTs on the marketplace
+    2. can buy the NFTs
+    3. can cancel a listing
+    4. Updates Price
+    5. Withdraws payment for my bought NFTs
