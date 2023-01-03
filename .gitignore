@@ -1,0 +1,9 @@
+.env
+artifacts
+build
+cache
+coverage
+node_modules
+.prettierignore
+.prettierrc
+gas-report.txt
